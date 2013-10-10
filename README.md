@@ -1,6 +1,8 @@
 mongo-express
 =============
 
+MongoDB Version: 1.3.19
+
 Web-based MongoDB admin interface written with Node.js and express
 
 [![Build Status](https://secure.travis-ci.org/andzdroid/mongo-express.png?branch=master)](http://travis-ci.org/andzdroid/mongo-express) - Master (stable) branch
